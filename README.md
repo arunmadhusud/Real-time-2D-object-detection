@@ -63,16 +63,7 @@ Training mode: use "t" as operation_mode. You can keep the classifier_type as "n
 
 Classification mode: Use "c" as operation_mode. Use "n" as classifier_type  for nearest neighbor approach. Use "k" as classifier_type  for K - nearest neighbor approach. Note that K = 3 is used in the system.
 
-
-### To run the extensions
-
-1. Sytem can classify more than 10 objects. No additional input required for this from user.
-
-2. System can detect multiple objects at a time. No additional input required for this from user.
-
-3. Implementing 2 pass connected component analysis from scratch. User has to un-comment lines 192 to 196 in check.cpp.
-
-4. System identifies an object which is not in the database as unknown and goes into training mode. No additional input required for this from user.
+ System identifies an object which is not in the database as unknown and goes into training mode. No additional input required for this from user.
 
 
 

@@ -88,4 +88,4 @@ Classification mode: Use "c" as operation_mode. Use "n" as classifier_type  for 
 https://www.geeksforgeeks.org/write-on-an-image-using-opencv-in-cpp/
 
 
-## No of Extension Days Used : 1
+
